@@ -43,7 +43,7 @@ Quick review: https://learninglabs.cisco.com/tracks/app-dev
 2)	Cloud Managed IT - with Meraki API
 				Cisco Meraki is 100% cloud-managed IT. Meraki product lines are all accessible with a simple easy-to-use dashboard & they are all programmable with API .. Access the information from users on network, Client devices to network infrastructure itself. Explore the API docs on Dashboard for more information.
 
-				Use cases:
+				Use cases: https://create.meraki.io/
 				•	Add WiFi and Bluetooth real-time location services to your app
 				•	Remotely manage your Meraki network with the Dashboard API (#NetDevOps)
 				•	Add captive portals or splash pages to your customers workflow
