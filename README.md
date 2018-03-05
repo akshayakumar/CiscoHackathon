@@ -2,10 +2,10 @@
 
 This Github page has API reference  for the most popular Cisco environments like Cisco CMX (location based services), DNA Center, Meraki, Cisco Spark & also Security API for Cisco Umbrella & Firepower.
             Each Technology has following sections:
-    		* Use cases    Common Projects solved using the API infrastructure in specific Environment
-    		* Getting started    Reference to learn more about the technology
-    		* HelloWorld    20-30mins Hands-on learning modules to learn about API/ Coding
-    		* Sandbox        Reference to Lab environments to code
+    		•    Use cases:    Common Projects solved using the API infrastructure in specific Environment
+                •    Getting started:    Reference to learn more about the technology
+                •    HelloWorld:    20-30mins Hands-on learning modules to learn about API/                            
+                •    Sandbox:        Reference to Lab environments to code
 
 If you are new to Cisco Devnet & would like to know where to get started – here are some popular use cases:
 
