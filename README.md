@@ -6,10 +6,31 @@ Quick review: https://learninglabs.cisco.com/tracks/app-dev
 
 1)	#NetDevOps – Networking/Automation -Cisco Programmable infrastructure 
 			
-			1a) Cisco DNA Center 
+			
+	1a) Cisco CMX 
+				Cisco Connected Mobile Experiences (CMX) is a smart Wi-Fi solution that uses the Cisco wireless infrastructure to detect and locate consumers’ mobile devices. With it, your organization can directly deliver content to smartphones and tablets that’s personalized to your visitors’ preferences and pertinent to their real-time indoor locations.
+				
+		Cisco CMX is the most popular in Cisco API community since it let us build some cool Location based Apps.. Check out this reference that walks you through the basics on how to incorporate CMX API in Python & Node.js Code & more.. 		https://github.com/geekbleek/CMX_Getting_Started_Code
+				
+				CMX Use Case 
+				•	Location based services, Analytics – WiFi & BLE
+				•	Allow for users to check how “crowded” an area (event, line, store, etc) is relative to capacity.
+				•	Automate attendance and classroom assignments from mobile device
+
+				Getting Started with Cisco CMX :https://developer.cisco.com/site/cmx-mobility-services/
+				Hello World: https://learninglabs.cisco.com/modules/dna-cmx-mse
+
+				Always-on-Sandbox
+				CMX : https://devnetsandbox.cisco.com/RM/Diagram/Index/3f3178e9-8c8e-4b9a-9ced-689602d493cb?diagramType=Topology
+				* Dashboard: http://cmxlocationsandbox.cisco.com/
+				* Username: learning
+				* Password: learning
+				
+				
+	1b) Cisco DNA Center 
 					DNA Center is an IT automation and assurance platform designed to allow you to move faster at scale, lower cost and reduce risk. Capabilities of Cisco DNA Center are exposed through a REST API allowing you to automate, integrate and innovate.
 
-				Use Cases 
+				DNA Center Use Cases 
 					•	Automate daily health reports around network support.
 					•	Generate and deliver automated network reporting
 					•	Provide different reports for different level users. (e.g. CIO gets basic Red, Yellow, Green health report, and high level SLA stats, director gets opened/closed service requests and mttr stats, manager gets wan availability and average latency reports)
@@ -23,27 +44,11 @@ Quick review: https://learninglabs.cisco.com/tracks/app-dev
 				* username: devnetuser
 				* password: Cisco123!
 
-		1b) Cisco CMX
-				Cisco Connected Mobile Experiences (CMX) is a smart Wi-Fi solution that uses the Cisco wireless infrastructure to detect and locate consumers’ mobile devices. With it, your organization can directly deliver content to smartphones and tablets that’s personalized to your visitors’ preferences and pertinent to their real-time indoor locations.
-
-				Use Case 
-				•	Location based services, Analytics – WiFi & BLE
-				•	Allow for users to check how “crowded” an area (event, line, store, etc) is relative to capacity.
-				•	Automate attendance and classroom assignments from mobile device
-
-				Getting Started with Cisco CMX : https://developer.cisco.com/site/cmx-mobility-services/
-				Hello World: https://learninglabs.cisco.com/modules/dna-cmx-mse
-
-				Always-on-Sandbox
-				CMX : https://devnetsandbox.cisco.com/RM/Diagram/Index/3f3178e9-8c8e-4b9a-9ced-689602d493cb?diagramType=Topology
-				* Dashboard: http://cmxlocationsandbox.cisco.com/
-				* Username: learning
-				* Password: learning
 
 2)	Cloud Managed IT - with Meraki API
 				Cisco Meraki is 100% cloud-managed IT. Meraki product lines are all accessible with a simple easy-to-use dashboard & they are all programmable with API .. Access the information from users on network, Client devices to network infrastructure itself. Explore the API docs on Dashboard for more information.
 
-				Use cases: https://create.meraki.io/
+				Meraki Use cases: Join Meraki community here - https://create.meraki.io/
 				•	Add WiFi and Bluetooth real-time location services to your app
 				•	Remotely manage your Meraki network with the Dashboard API (#NetDevOps)
 				•	Add captive portals or splash pages to your customers workflow
@@ -68,7 +73,7 @@ Quick review: https://learninglabs.cisco.com/tracks/app-dev
 				Cisco Spark is a simple, secure collaboration platform where you can get things done from anywhere in the world. Cisco Spark APIs and integrations are key to helping you digitize your business. The self-enabled integrations, bots, and 
 				APIs can be easily customized to your existing processes and workstreams.
 
-				Use Cases
+				Cisco Spark Use Cases
 				1)	Create a tool that can be used to manage public announcements in a physical space
 				•	Auto add users to spark rooms based on physical presence and opt-in
 				•	Allow for report on what messages are going to which users
@@ -93,10 +98,10 @@ Quick review: https://learninglabs.cisco.com/tracks/app-dev
 
 4)	Security
 				
-				4a) Cisco Umbrella
+	4a) Cisco Umbrella
 						Cisco Umbrella & Investigate API lets us configure the secure cloud & investigate about specific URL/ Hash for security health/ catetgory etc.
 
-				Use Cases:
+			Umbrella Use Cases:
 				•	Publish list of sites visited in Cisco Spark room
 				•	Create Spark Bot to query Security score/Health / Category of Specific URL – 
 				•	Add information from other sites like VirusTotal using the free API in addition to Umbrella/ Investigate API
@@ -108,10 +113,10 @@ Quick review: https://learninglabs.cisco.com/tracks/app-dev
 				Always on Sandbox
 				We will be getting few Cisco Umbrella Demo accounts for the event that students can use create Apps – with Investigate / Umbrella API 
 
-				4b) Cisco Firepower
+	4b) Cisco Firepower
 				REST API for accessing Next Generation Firewall policy and object information
 				
-				Use cases
+			Firepower Use cases
 				•	query intrusion, discovery, user activity, correlation, connection, vulnerability, and application and URL statistics database tables on a Cisco Firepower Management Center
 
 				Getting Started: https://developer.cisco.com/site/firepower/
