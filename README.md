@@ -114,11 +114,15 @@ Quick review: https://learninglabs.cisco.com/tracks/app-dev
 				•	Add information from other sites like VirusTotal using the free API in addition to Umbrella/ Investigate API
 
 				Getting Started:	https://docs.umbrella.com/developer/enforcement-api/
-													https://docs.umbrella.com/developer/investigate-api/
+							https://docs.umbrella.com/developer/investigate-api/
 				Hello World: 	https://docs.umbrella.com/developer/investigate-api/coding-examples-1/
-
+						https://github.com/opendns/investigate-examples/blob/master/scripts.py
 				Always on Sandbox
-				We will be getting few Cisco Umbrella Demo accounts for the event that students can use create Apps – with Investigate / Umbrella API 
+				Use one of the following Demo API key for testing (valid until March 11)
+				API Token
+                                	Hackathon API ACCESS TOKEN: 3bb69d0a-ccc7-40b5-a386-48632333e381
+					Hackathon API ACCESS TOKEN: 645462aa-7c26-4dd2-bf67-35777b1f3ef2
+					Hackathon API ACCESS TOKEN: 7be254dc-9e39-4d06-b729-3578827b20db
 
 	4b) Cisco Firepower
 				REST API for accessing Next Generation Firewall policy and object information
