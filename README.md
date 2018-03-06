@@ -25,7 +25,9 @@ Quick review: https://learninglabs.cisco.com/tracks/app-dev
 				•	Automate attendance and classroom assignments from mobile device
 
 				Getting Started with Cisco CMX :https://developer.cisco.com/site/cmx-mobility-services/
-				Hello World: https://learninglabs.cisco.com/modules/dna-cmx-mse
+				Hello World: 
+				Signup & Login to developer.cisco.com and then visit following URL
+				https://learninglabs.cisco.com/modules/dna-cmx-mse
 
 				Always-on-Sandbox
 				CMX : https://devnetsandbox.cisco.com/RM/Diagram/Index/3f3178e9-8c8e-4b9a-9ced-689602d493cb?diagramType=Topology
@@ -43,8 +45,10 @@ Quick review: https://learninglabs.cisco.com/tracks/app-dev
 					•	Provide different reports for different level users. (e.g. CIO gets basic Red, Yellow, Green health report, and high level SLA stats, director gets opened/closed service requests and mttr stats, manager gets wan availability and average latency reports)
 
 				Getting Started: https://developer.cisco.com/site/dna-center/
-				Hello World: 	https://developer.cisco.com/docs/dna-center/
-											https://developer.cisco.com/docs/dna-center/#hello-world
+				Hello World: 	
+				Signup & Login to developer.cisco.com and then visit following URL
+					https://developer.cisco.com/docs/dna-center/
+			       		https://developer.cisco.com/docs/dna-center/#hello-world
 
 				Always-on-Sandbox
 				* https://sandboxdnac.cisco.com/
@@ -65,7 +69,9 @@ Quick review: https://learninglabs.cisco.com/tracks/app-dev
 
 
 				Getting Started    https://developer.cisco.com/site/meraki/
-				Hello World: https://learninglabs.cisco.com/modules/getting-started-with-meraki 
+				Hello World: 
+				Signup & Login to developer.cisco.com and then visit following URL
+					https://learninglabs.cisco.com/modules/getting-started-with-meraki 
 
 				Always-on-Sandbox
 				https://devnetsandbox.cisco.com/RM/Diagram/Index/a9487767-deef-4855-b3e3-880e7f39eadc?diagramType=Topology 
@@ -94,7 +100,9 @@ Quick review: https://learninglabs.cisco.com/tracks/app-dev
 
 
 				Getting Started: https://developer.ciscospark.com/getting-started.html
-						Hello World: https://learninglabs.cisco.com/tracks/collab-cloud
+				Hello World: 
+				Signup & Login to developer.cisco.com and then visit following URL
+					https://learninglabs.cisco.com/tracks/collab-cloud
 
 				Always on Sandbox
 				Create your own Cisco account
@@ -115,8 +123,10 @@ Quick review: https://learninglabs.cisco.com/tracks/app-dev
 
 				Getting Started:	https://docs.umbrella.com/developer/enforcement-api/
 							https://docs.umbrella.com/developer/investigate-api/
-				Hello World: 	https://docs.umbrella.com/developer/investigate-api/coding-examples-1/
+				Hello World: 	
+						https://docs.umbrella.com/developer/investigate-api/coding-examples-1/
 						https://github.com/opendns/investigate-examples/blob/master/scripts.py
+				
 				Always on Sandbox
 				Use one of the following Demo API key for testing (valid until March 11)
 				API Token
@@ -131,7 +141,9 @@ Quick review: https://learninglabs.cisco.com/tracks/app-dev
 				•	query intrusion, discovery, user activity, correlation, connection, vulnerability, and application and URL statistics database tables on a Cisco Firepower Management Center
 
 				Getting Started: https://developer.cisco.com/site/firepower/
-				Hello World: https://learninglabs.cisco.com/modules/Firepower
+				Hello World: 
+				Signup & Login to developer.cisco.com and then visit following URL
+					https://learninglabs.cisco.com/modules/Firepower
 				Sandbox 
 				Firepower Rest API Lab can be reserved here - https://devnetsandbox.cisco.com/RM/Topology 
 
