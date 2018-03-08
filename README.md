@@ -104,7 +104,7 @@ Quick review: https://learninglabs.cisco.com/tracks/app-dev
 				Hello World: 
 				Signup & Login to developer.cisco.com and then visit following URL
 					https://learninglabs.cisco.com/tracks/collab-cloud
-				 Sample Bot -with Dialogflow & Heroku
+			        Sample Bot -with Dialogflow & Heroku
 				  Create Bot in few steps with Dialogflow: https://dialogflow.com/docs/integrations/spark
 				  Advanced with heroku: https://miningbusinessdata.com/api-ai-tutorial-getting-started-webhooks-heroku/
 					
