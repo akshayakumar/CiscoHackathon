@@ -72,15 +72,16 @@ Quick review: https://learninglabs.cisco.com/tracks/app-dev
 				Hello World: 
 				Signup & Login to developer.cisco.com and then visit following URL
 					https://learninglabs.cisco.com/modules/getting-started-with-meraki 
+					https://documenter.getpostman.com/view/897512/meraki-dashboard-prov-api/2To9xm
 
 				Always-on-Sandbox
-				https://devnetsandbox.cisco.com/RM/Diagram/Index/a9487767-deef-4855-b3e3-880e7f39eadc?diagramType=Topology 
-				Dashboard :    https://meraki.cisco.com/ 
-				* Username: devnetmeraki@cisco.com
-				* Password: ilovemeraki
-				* You can also use this API key for the Dashboard API: ecd58b4aebd5482c128e5da456da9b30be86b528
-				Choose any organization (example: “Meraki DevNet Sandbox” )
-
+					
+				https://devnetsandbox.cisco.com/RM/Diagram/Index/a9487767-deef-4855-b3e3-880e7f39eadc?diagramType=Topology
+				Login to "Meraki Devnet Network" dashboard with username "devnetmeraki@cisco.com/ ilovemeraki"
+				
+				Its recommended to create/use your own account with your email-id.
+				Ask the event co-ordinator (sakskuma[at]cisco.com) to add your email to the Event Meraki network to test the API 
+					
 
 3)	Collaboration – Cisco Spark
 				Cisco Spark is a simple, secure collaboration platform where you can get things done from anywhere in the world. Cisco Spark APIs and integrations are key to helping you digitize your business. The self-enabled integrations, bots, and 
