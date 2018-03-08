@@ -78,9 +78,10 @@ Quick review: https://learninglabs.cisco.com/tracks/app-dev
 					
 				https://devnetsandbox.cisco.com/RM/Diagram/Index/a9487767-deef-4855-b3e3-880e7f39eadc?diagramType=Topology
 				Login to "Meraki Devnet Network" dashboard with username "devnetmeraki@cisco.com/ ilovemeraki"
+				API Key cc54e1f9520616813f654aab8e0dfc614e33c179
 				
 				Its recommended to create/use your own account with your email-id.
-				Ask the event co-ordinator (sakskuma[at]cisco.com) to add your email to the Event Meraki network to test the API 
+				If you have any challenges - Ask the event co-ordinator (sakskuma[at]cisco.com) to add your email to the Event Meraki network to test the API 
 					
 
 3)	Collaboration – Cisco Spark
