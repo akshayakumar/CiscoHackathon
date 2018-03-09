@@ -44,12 +44,14 @@ Quick review: https://learninglabs.cisco.com/tracks/app-dev
 					•	Generate and deliver automated network reporting
 					•	Provide different reports for different level users. (e.g. CIO gets basic Red, Yellow, Green health report, and high level SLA stats, director gets opened/closed service requests and mttr stats, manager gets wan availability and average latency reports)
 
-				Getting Started: https://developer.cisco.com/site/dna-center/
+				Getting Started: 
+					 https://developer.cisco.com/docs/dna-center/ 
+					 https://developer.cisco.com/site/apic-em/ 
+
 				Hello World: 	
 				Signup & Login to developer.cisco.com and then visit following URL
-						 https://developer.cisco.com/docs/dna-center/ 
-	 					 https://developer.cisco.com/site/apic-em/ 
-
+						 https://developer.cisco.com/docs/dna-center/#hello-world 
+	 					 https://learninglabs.cisco.com/tracks/apic-em-prog
 
 				Always-on-Sandbox
 				DNA Center
@@ -71,8 +73,6 @@ Quick review: https://learninglabs.cisco.com/tracks/app-dev
 				•	Add captive portals or splash pages to your customers workflow
 				•	Location based services, Analytics – WiFi & BLE
 				•	Allow for users to check how “crowded” an area (event, line, store, etc) is relative to capacity.
-				•	Automate attendance and classroom assignments from mobile device
-
 
 				Getting Started    https://developer.cisco.com/site/meraki/
 				Hello World: 
