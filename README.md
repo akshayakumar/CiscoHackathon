@@ -179,7 +179,7 @@ Quick review: https://learninglabs.cisco.com/tracks/app-dev
 				Firepower Rest API Lab can be reserved here - https://devnetsandbox.cisco.com/RM/Topology 
 
 
-				More Sandboxes can be found here: https://developer.cisco.com/site/sandbox/
-				Devnet on GitHub https://github.com/CiscoDevNet
-				Learning tracks: https://learninglabs.cisco.com/tracks
+	More Sandboxes can be found here: https://developer.cisco.com/site/sandbox/
+	Devnet on GitHub https://github.com/CiscoDevNet
+	Learning tracks: https://learninglabs.cisco.com/tracks
 
