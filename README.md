@@ -36,7 +36,7 @@ Quick review: https://learninglabs.cisco.com/tracks/app-dev
 				* Password: learning
 				
 				
-	1b) Cisco DNA Center 
+	1b) Cisco DNA Center & APIC-EM
 					DNA Center is an IT automation and assurance platform designed to allow you to move faster at scale, lower cost and reduce risk. Capabilities of Cisco DNA Center are exposed through a REST API allowing you to automate, integrate and innovate.
 
 				DNA Center Use Cases 
@@ -47,14 +47,20 @@ Quick review: https://learninglabs.cisco.com/tracks/app-dev
 				Getting Started: https://developer.cisco.com/site/dna-center/
 				Hello World: 	
 				Signup & Login to developer.cisco.com and then visit following URL
-					https://developer.cisco.com/docs/dna-center/
-			       		https://developer.cisco.com/docs/dna-center/#hello-world
+						 https://developer.cisco.com/docs/dna-center/ 
+	 					 https://developer.cisco.com/site/apic-em/ 
+
 
 				Always-on-Sandbox
-				* https://sandboxdnac.cisco.com/
+				DNA Center
+				* https://sandboxdnac.cisco.com/ 
 				* username: devnetuser
 				* password: Cisco123!
-
+				
+				APIC-EM
+				* https://sandboxapic.cisco.com/ 
+				* username: devnetuser
+				* password: Cisco123!
 
 2)	Cloud Managed IT - with Meraki API
 				Cisco Meraki is 100% cloud-managed IT. Meraki product lines are all accessible with a simple easy-to-use dashboard & they are all programmable with API .. Access the information from users on network, Client devices to network infrastructure itself. Explore the API docs on Dashboard for more information.
