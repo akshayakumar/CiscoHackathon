@@ -1,12 +1,16 @@
 # CiscoHackathon 101
 
 This Github page has API reference  for the most popular Cisco environments like Cisco CMX (location based services), DNA Center, Meraki, Cisco Spark & also Security API for Cisco Umbrella & Firepower.
-            Each Technology has following sections:
+            
+	    Each Technology has following sections:
     		•    Use cases:    Common Projects solved using the API infrastructure in specific Environment
+		•    Watch:    Video that talks about the API/ Use Case associated to the Technology
                 •    Getting started:    Reference to learn more about the technology
                 •    HelloWorld:    20-30mins Hands-on learning modules to learn about API                            
                 •    Sandbox:        Reference to Lab environments to code
-
+		
+		Devnet 101 https://www.youtube.com/watch?v=gjK9OuADRps
+		
 If you are new to Cisco Devnet & would like to know where to get started – here are some popular use cases:
 
 Quick review: https://learninglabs.cisco.com/tracks/app-dev
@@ -23,7 +27,10 @@ Quick review: https://learninglabs.cisco.com/tracks/app-dev
 				•	Location based services, Analytics – WiFi & BLE
 				•	Allow for users to check how “crowded” an area (event, line, store, etc) is relative to capacity.
 				•	Automate attendance and classroom assignments from mobile device
-
+				
+				Watch:
+				https://www.youtube.com/watch?v=clAqGsxIARU
+				
 				Getting Started with Cisco CMX :https://developer.cisco.com/site/cmx-mobility-services/
 				Hello World: 
 				Signup & Login to developer.cisco.com and then visit following URL
@@ -43,7 +50,9 @@ Quick review: https://learninglabs.cisco.com/tracks/app-dev
 					•	Automate daily health reports around network support.
 					•	Generate and deliver automated network reporting
 					•	Provide different reports for different level users. (e.g. CIO gets basic Red, Yellow, Green health report, and high level SLA stats, director gets opened/closed service requests and mttr stats, manager gets wan availability and average latency reports)
-
+				Watch:
+				https://www.youtube.com/watch?v=Ixdpk2Hqcro
+				
 				Getting Started: 
 					 https://developer.cisco.com/docs/dna-center/ 
 					 https://developer.cisco.com/site/apic-em/ 
@@ -66,14 +75,17 @@ Quick review: https://learninglabs.cisco.com/tracks/app-dev
 
 2)	Cloud Managed IT - with Meraki API
 				Cisco Meraki is 100% cloud-managed IT. Meraki product lines are all accessible with a simple easy-to-use dashboard & they are all programmable with API .. Access the information from users on network, Client devices to network infrastructure itself. Explore the API docs on Dashboard for more information.
-
+				
 				Meraki Use cases: Join Meraki community here - https://create.meraki.io/
 				•	Add WiFi and Bluetooth real-time location services to your app
 				•	Remotely manage your Meraki network with the Dashboard API (#NetDevOps)
 				•	Add captive portals or splash pages to your customers workflow
 				•	Location based services, Analytics – WiFi & BLE
 				•	Allow for users to check how “crowded” an area (event, line, store, etc) is relative to capacity.
-
+				
+				Watch:
+				Meraki Location Analytics https://www.youtube.com/watch?v=erLbDmyKwKE
+				
 				Getting Started    https://developer.cisco.com/site/meraki/
 				Hello World: 
 				Signup & Login to developer.cisco.com and then visit following URL
@@ -105,7 +117,9 @@ Quick review: https://learninglabs.cisco.com/tracks/app-dev
 				•	Allow for querying number of unique visitors for any time period
 				•	Apply a natural language processor to allow for more "loose" interactions with the chatbot
 				•	Render results graphically and save to a portable file format.
-					
+				
+				Watch: 
+				https://www.youtube.com/watch?v=EEeZ0hIdmbA 
 
 				Getting Started: https://developer.ciscospark.com/getting-started.html
 				Hello World: 
@@ -131,6 +145,8 @@ Quick review: https://learninglabs.cisco.com/tracks/app-dev
 				•	Publish list of sites visited in Cisco Spark room
 				•	Create Spark Bot to query Security score/Health / Category of Specific URL – 
 				•	Add information from other sites like VirusTotal using the free API in addition to Umbrella/ Investigate API
+				Watch:
+				Enrich SIEM https://www.youtube.com/watch?v=PTEOhFRpbi0
 
 				Getting Started:	https://docs.umbrella.com/developer/enforcement-api/
 							https://docs.umbrella.com/developer/investigate-api/
@@ -138,7 +154,7 @@ Quick review: https://learninglabs.cisco.com/tracks/app-dev
 						https://docs.umbrella.com/developer/investigate-api/coding-examples-1/
 						https://github.com/opendns/investigate-examples/blob/master/scripts.py
 				
-				Always on Sandbox
+				Always on Sandbox:
 				Use one of the following Demo API key for testing (valid until March 11)
 				API Token
                                 	Hackathon API ACCESS TOKEN: 3bb69d0a-ccc7-40b5-a386-48632333e381
@@ -150,12 +166,16 @@ Quick review: https://learninglabs.cisco.com/tracks/app-dev
 				
 			Firepower Use cases
 				•	query intrusion, discovery, user activity, correlation, connection, vulnerability, and application and URL statistics database tables on a Cisco Firepower Management Center
-
+				
+				Watch:
+				https://www.youtube.com/watch?v=tPO4PE2X1E8
+				
 				Getting Started: https://developer.cisco.com/site/firepower/
 				Hello World: 
 				Signup & Login to developer.cisco.com and then visit following URL
 					https://learninglabs.cisco.com/modules/Firepower
-				Sandbox 
+				
+				Sandbox: 
 				Firepower Rest API Lab can be reserved here - https://devnetsandbox.cisco.com/RM/Topology 
 
 
