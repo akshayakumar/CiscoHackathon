@@ -1,3 +1,6 @@
+Good Citizen Code of Conduct: 
+All hardware resources in the lab are an dedicated instances.Please, do not erase resources you have not created yourself. Also, do not perform performance testing against this dedicated instance of Developer Platform. 
+
 # CiscoHackathon 101
 
 This Github page has API reference  for the most popular Cisco environments like Cisco CMX (location based services), DNA Center, Meraki, Cisco Spark & also Security API for Cisco Umbrella & Firepower.
